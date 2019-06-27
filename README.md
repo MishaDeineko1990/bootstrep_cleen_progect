@@ -1,1 +1,4 @@
-# bootstrep_cleen_progect
+sinatra-bootstrap-clean
+=======================
+
+Cleaned version of https://github.com/bootstrap-ruby/sinatra-bootstrap
